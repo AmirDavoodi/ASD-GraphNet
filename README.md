@@ -102,4 +102,5 @@ See `LICENSE` for terms. Code is provided for research and educational use.
 
 ## Contact
 - For research questions: open an issue on GitHub
-- Corresponding authors: see paper for contact details
+- Mina Zeraati: minazeraatii@gmail.com
+- Amirehsan Davoodi: amirehsan.davoodi@gmail.com
