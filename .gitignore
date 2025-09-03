@@ -1,0 +1,12 @@
+.venv
+atlases/aal/*.1D
+atlases/cc200/*.1D
+atlases/dos160/*.1D
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+manuscript_latex/
+revision1/
+/home/ehsan/Documents/private/manuscripts/
