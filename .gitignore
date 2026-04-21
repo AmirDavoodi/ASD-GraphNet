@@ -1,4 +1,5 @@
 .venv
+*.nii.gz
 atlases/aal/*.1D
 atlases/cc200/*.1D
 atlases/dos160/*.1D
